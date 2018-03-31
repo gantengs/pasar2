@@ -1,0 +1,99 @@
+
+
+tabel TOKO
+- no register
+- ukuran kios
+- jenis usaha
+- tgl mulai
+- tgl habis
+- keterangan retribusi
+- no kios
+lengkapnya lihat 
+
+
+
+identifikasi jenis jualan
+
+Kelontong
+Buah
+Sembako
+Makanan
+Gerabah
+Aksesoris
+	Kaca Mata
+Sepatu/Sandal
+Lain-lain
+	Obat pertanian
+	Obat Kesehatan
+	perlengkapan kecantikan
+Tambal Ban
+Emas
+pakaian
+TAS
+Bumbu Dapur
+	Sayuran
+Kain
+Plastik
+Roti/Snack/Jajan
+Konveksi
+Gilingan
+bahan bangunan
+elektronik
+Ikan
+Daging
+alat listrik
+BANK
+Konter HP
+Bunga
+Cucian
+
+
+
+Pasar Kliwon	Desa Rendeng	26-12-1996	27.681 M2	13.380 M2	3 lt	1.846	509	98	2.190	404	98	ada	ada	ada	ada	35 Ruko
+Kec. Kota	Tanah Pemkab.														
+2	Pasar Bitingan	Desa Ploso	1998	17.410 M2	15,428	3 lt	1,218	336	–	1,317	95	240	ada	ada	ada	ada	
+Kec. Kota	Tanah PT. KAI														
+dan Pemkab.														
+3	Pasar Jember	Desa Purwosari	1971	4.168 M2	4,104 m2	2 lt	3,206	130	42	580	110	19	ada	ada	ada	ada	
+Kec. Kota	Tanah Pemkab.														
+4	Pasar Wergu	Desa Wergu		11.126 M2	4.089 M2		597	95	72	334	46	76	–	–	ada	–	
+Kec. Kota	Tanah PT. KAI														
+5	Pasar Barongan	Desa Barongan		171 M2	167 M2	2 lt	33	13	–	25	6	–	–	–	ada	–	
+Kec. Kota	Tanah Desa														
+6	Taman Bojana	Desa Barongan		4.300 M2	1.308 M2	2 lt	–	118	–	–	118	–	ada	ada	ada	ada	
+Kec. Kota	Tanah Pemkab.														
+7	Pasar Jekulo	Desa Jekulo		11.634 M2	10,346	–	8	170	43	921	115	43	ada	–	ada	ada	
+Kec. Jekulo	Tanah Desa														
+8	Pasar Ngablak	Desa Tanjung rejo		3.000 M2	729 m2	–	7	45	–	105	43	–	ada	–	ada	ada	
+Kec Jekulo	Tanah Desa														
+9	Pasar Krgbener	Desa Karangbener	2010	2.100 M2	488 M2	–	1	31	20	104	31	20	ada	–	ada	ada	
+Kec. Bae	Tanah Desa														
+10	Pasar Brayung	Desa Mejobo	1987	12.800 M2	2.096 M2	–	21	112	55	368	112	55	ada	ada	ada	ada	
+Kec. Mejobo	Tanah Desa														
+11	Pasar Doro	Desa Jepang	1981	3.981 M2	863 M2	–	10	28	40	70	28	40	ada	ada	ada	ada	
+Kec. Mejobo	Tanah Desa														
+12	Pasar Prapat	Desa Mejobo	1987	3.139 M2	1.072,75 M2	–	18	33	5	77	33	5	ada	–	ada	–	
+Kec. Mejobo	Tanah Desa														
+13	Pasar Ploso	Desa Ploso	1975	1.094 M2	350 m2	–	5	–	3	55	–	–	–	–	–	–	
+Kec. Kota	Tanah Desa														
+14	Pasar Lgr Dalam	Desa Lgr Dalem	1971	130 M2	100 m2	–	3	–	–	20	–	–	–	–	–	–	
+Tanah Desa														
+15	Pasar Mijen	Desa Mijen	1997	11.148 M2	4.098,6 M2	–	496	88	46/17	612	88	46/17	ada	–	ada	ada	
+Kec. Kaliwungu	Tanah Desa														
+16	Pasar Kd Dowo	Desa Kd Dowo	1997	–	–	–	–	–	–	–	–	25	–	–	–	–	
+Kec.Kaliwungu															
+17	Pasar Ngemplak	Jl.Kudus Purwo	–	757  M2	492 M2	–	2	43	–	16	20	–	–	–	ada	–	
+dadi Kec.Undaan	Tanah Desa														
+18	Pasar Wates	Jl. Kudus Purwo	–	1.340 M2	1.240 M2	–	11	40	0	240	31	25	ada	–	ada	ada	
+dadi Kec.Undaan	Tanah Desa														
+19	Pasar Undaan Kdl	Desa Undaan Kdl	–	3.198 M2	1.748 M2	–	197	50	110	197	50	110	–	ada	–	–	
+Kec. Undaan	Tanah Desa														
+20	Pasar Kalirejo	Desa Kalirejo	–	8.954 M2	6.983 M2	–	714	122	103	714	122	103	ada	–	ada	ada	
+Kec. Undaan	Tanah Desa														
+21	Pasar Piji	Jl. Kudus Colo	1 Juli 1997	13.500 M2	5.914 m2	–	19	160	–	637	160	50	ada	ada	ada	ada	Swadaya
+Tanah Desa														
+22	Pasar Besito	DesaBesito	07/11/1998	1.217,75 M2	1.203,75 M2	–	141	47	–	141	47	–	–	–	–	–	–
+Kec Gebog	Tanah Desa														
+23	Pasar Jurang	DesaJurang	1986	8.400 M2	585 M2	–	100	11	–	100	11	–	–	–	–	–	–
+Kec. Gebog	Tanah Desa														
+
